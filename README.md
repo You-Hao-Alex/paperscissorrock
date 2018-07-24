@@ -1,5 +1,5 @@
 # Paper, Scissor, Rock
-My first assignment at RMIT
+My first assignment at RMIT (Programming Fundamentals)
 
 The Game program implements an application that 
 plays the game 'paper, scissors, rock' with a user.
